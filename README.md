@@ -1,6 +1,7 @@
 # Self-Supervised Learning for Image Segmentation
 
 Self-Supervised pretraining for the Carvana Image Masking Challenge (https://www.kaggle.com/c/carvana-image-masking-challenge)
+
 Reimplemented RotNet as described in this paper: https://arxiv.org/abs/1803.07728
 
 - dataset.py
